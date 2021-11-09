@@ -1,2 +1,2 @@
-# Rapidly-Exploring Random Trees
-# For manipulator path planning
+Rapidly-Exploring Random Trees
+For manipulator path planning
